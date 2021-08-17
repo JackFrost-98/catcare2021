@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "293712997195",
+    "firebase_url": "https://catcarev2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "catcarev2",
+    "storage_bucket": "catcarev2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293712997195:android:11dfe5fcd2d91dfc9f56ce",
+        "android_client_info": {
+          "package_name": "com.example.catcare2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293712997195-ahlrndb4urur3a65tjpt9t9remnn6mi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7SmHY2BbFpYY_18Yjkq2w7zUkPhrU5oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293712997195-ahlrndb4urur3a65tjpt9t9remnn6mi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
